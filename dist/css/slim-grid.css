@@ -39,28 +39,28 @@
 	height: 20px;
 }
 
-.sl-container-row-1[class=*"sl-vertical"] {
+[class=*"sl-vertical"] {
 	line-height: 20px;
 }
 
-.sl-container-row-1[class=*"sl-vertical"] > * {
+[class=*"sl-vertical"] > * {
 	display: inline-block;
 	float: none;
 }
 
-.sl-container-row-1[class=*"sl-vertical"] * {
+[class=*"sl-vertical"] * {
 	line-height: normal;
 }
 
-.sl-container-row-1[class="sl-vertical-top"] {
+[class=*"sl-vertical-top"] {
 	vertical-align: top;
 }
 
-.sl-container-row-1[class="sl-vertical-center"] {
+[class=*"sl-vertical-middle"] {
 	vertical-align: middle;
 }
 
-.sl-container-row-1[class="sl-vertical-bottom"] {
+[class=*"sl-vertical-bottom"] {
 	vertical-align: bottom;
 }
 
@@ -76,28 +76,28 @@
 	height: 40px;
 }
 
-.sl-container-row-2[class=*"sl-vertical"] {
+[class=*"sl-vertical"] {
 	line-height: 40px;
 }
 
-.sl-container-row-2[class=*"sl-vertical"] > * {
+[class=*"sl-vertical"] > * {
 	display: inline-block;
 	float: none;
 }
 
-.sl-container-row-2[class=*"sl-vertical"] * {
+[class=*"sl-vertical"] * {
 	line-height: normal;
 }
 
-.sl-container-row-2[class="sl-vertical-top"] {
+[class=*"sl-vertical-top"] {
 	vertical-align: top;
 }
 
-.sl-container-row-2[class="sl-vertical-center"] {
+[class=*"sl-vertical-middle"] {
 	vertical-align: middle;
 }
 
-.sl-container-row-2[class="sl-vertical-bottom"] {
+[class=*"sl-vertical-bottom"] {
 	vertical-align: bottom;
 }
 
@@ -113,28 +113,28 @@
 	height: 60px;
 }
 
-.sl-container-row-3[class=*"sl-vertical"] {
+[class=*"sl-vertical"] {
 	line-height: 60px;
 }
 
-.sl-container-row-3[class=*"sl-vertical"] > * {
+[class=*"sl-vertical"] > * {
 	display: inline-block;
 	float: none;
 }
 
-.sl-container-row-3[class=*"sl-vertical"] * {
+[class=*"sl-vertical"] * {
 	line-height: normal;
 }
 
-.sl-container-row-3[class="sl-vertical-top"] {
+[class=*"sl-vertical-top"] {
 	vertical-align: top;
 }
 
-.sl-container-row-3[class="sl-vertical-center"] {
+[class=*"sl-vertical-middle"] {
 	vertical-align: middle;
 }
 
-.sl-container-row-3[class="sl-vertical-bottom"] {
+[class=*"sl-vertical-bottom"] {
 	vertical-align: bottom;
 }
 
@@ -150,28 +150,28 @@
 	height: 80px;
 }
 
-.sl-container-row-4[class=*"sl-vertical"] {
+[class=*"sl-vertical"] {
 	line-height: 80px;
 }
 
-.sl-container-row-4[class=*"sl-vertical"] > * {
+[class=*"sl-vertical"] > * {
 	display: inline-block;
 	float: none;
 }
 
-.sl-container-row-4[class=*"sl-vertical"] * {
+[class=*"sl-vertical"] * {
 	line-height: normal;
 }
 
-.sl-container-row-4[class="sl-vertical-top"] {
+[class=*"sl-vertical-top"] {
 	vertical-align: top;
 }
 
-.sl-container-row-4[class="sl-vertical-center"] {
+[class=*"sl-vertical-middle"] {
 	vertical-align: middle;
 }
 
-.sl-container-row-4[class="sl-vertical-bottom"] {
+[class=*"sl-vertical-bottom"] {
 	vertical-align: bottom;
 }
 
@@ -187,28 +187,28 @@
 	height: 100px;
 }
 
-.sl-container-row-5[class=*"sl-vertical"] {
+[class=*"sl-vertical"] {
 	line-height: 100px;
 }
 
-.sl-container-row-5[class=*"sl-vertical"] > * {
+[class=*"sl-vertical"] > * {
 	display: inline-block;
 	float: none;
 }
 
-.sl-container-row-5[class=*"sl-vertical"] * {
+[class=*"sl-vertical"] * {
 	line-height: normal;
 }
 
-.sl-container-row-5[class="sl-vertical-top"] {
+[class=*"sl-vertical-top"] {
 	vertical-align: top;
 }
 
-.sl-container-row-5[class="sl-vertical-center"] {
+[class=*"sl-vertical-middle"] {
 	vertical-align: middle;
 }
 
-.sl-container-row-5[class="sl-vertical-bottom"] {
+[class=*"sl-vertical-bottom"] {
 	vertical-align: bottom;
 }
 
@@ -224,28 +224,28 @@
 	height: 120px;
 }
 
-.sl-container-row-6[class=*"sl-vertical"] {
+[class=*"sl-vertical"] {
 	line-height: 120px;
 }
 
-.sl-container-row-6[class=*"sl-vertical"] > * {
+[class=*"sl-vertical"] > * {
 	display: inline-block;
 	float: none;
 }
 
-.sl-container-row-6[class=*"sl-vertical"] * {
+[class=*"sl-vertical"] * {
 	line-height: normal;
 }
 
-.sl-container-row-6[class="sl-vertical-top"] {
+[class=*"sl-vertical-top"] {
 	vertical-align: top;
 }
 
-.sl-container-row-6[class="sl-vertical-center"] {
+[class=*"sl-vertical-middle"] {
 	vertical-align: middle;
 }
 
-.sl-container-row-6[class="sl-vertical-bottom"] {
+[class=*"sl-vertical-bottom"] {
 	vertical-align: bottom;
 }
 
@@ -261,28 +261,28 @@
 	height: 140px;
 }
 
-.sl-container-row-7[class=*"sl-vertical"] {
+[class=*"sl-vertical"] {
 	line-height: 140px;
 }
 
-.sl-container-row-7[class=*"sl-vertical"] > * {
+[class=*"sl-vertical"] > * {
 	display: inline-block;
 	float: none;
 }
 
-.sl-container-row-7[class=*"sl-vertical"] * {
+[class=*"sl-vertical"] * {
 	line-height: normal;
 }
 
-.sl-container-row-7[class="sl-vertical-top"] {
+[class=*"sl-vertical-top"] {
 	vertical-align: top;
 }
 
-.sl-container-row-7[class="sl-vertical-center"] {
+[class=*"sl-vertical-middle"] {
 	vertical-align: middle;
 }
 
-.sl-container-row-7[class="sl-vertical-bottom"] {
+[class=*"sl-vertical-bottom"] {
 	vertical-align: bottom;
 }
 
@@ -298,28 +298,28 @@
 	height: 160px;
 }
 
-.sl-container-row-8[class=*"sl-vertical"] {
+[class=*"sl-vertical"] {
 	line-height: 160px;
 }
 
-.sl-container-row-8[class=*"sl-vertical"] > * {
+[class=*"sl-vertical"] > * {
 	display: inline-block;
 	float: none;
 }
 
-.sl-container-row-8[class=*"sl-vertical"] * {
+[class=*"sl-vertical"] * {
 	line-height: normal;
 }
 
-.sl-container-row-8[class="sl-vertical-top"] {
+[class=*"sl-vertical-top"] {
 	vertical-align: top;
 }
 
-.sl-container-row-8[class="sl-vertical-center"] {
+[class=*"sl-vertical-middle"] {
 	vertical-align: middle;
 }
 
-.sl-container-row-8[class="sl-vertical-bottom"] {
+[class=*"sl-vertical-bottom"] {
 	vertical-align: bottom;
 }
 
@@ -335,28 +335,28 @@
 	height: 180px;
 }
 
-.sl-container-row-9[class=*"sl-vertical"] {
+[class=*"sl-vertical"] {
 	line-height: 180px;
 }
 
-.sl-container-row-9[class=*"sl-vertical"] > * {
+[class=*"sl-vertical"] > * {
 	display: inline-block;
 	float: none;
 }
 
-.sl-container-row-9[class=*"sl-vertical"] * {
+[class=*"sl-vertical"] * {
 	line-height: normal;
 }
 
-.sl-container-row-9[class="sl-vertical-top"] {
+[class=*"sl-vertical-top"] {
 	vertical-align: top;
 }
 
-.sl-container-row-9[class="sl-vertical-center"] {
+[class=*"sl-vertical-middle"] {
 	vertical-align: middle;
 }
 
-.sl-container-row-9[class="sl-vertical-bottom"] {
+[class=*"sl-vertical-bottom"] {
 	vertical-align: bottom;
 }
 
@@ -372,28 +372,28 @@
 	height: 200px;
 }
 
-.sl-container-row-10[class=*"sl-vertical"] {
+[class=*"sl-vertical"] {
 	line-height: 200px;
 }
 
-.sl-container-row-10[class=*"sl-vertical"] > * {
+[class=*"sl-vertical"] > * {
 	display: inline-block;
 	float: none;
 }
 
-.sl-container-row-10[class=*"sl-vertical"] * {
+[class=*"sl-vertical"] * {
 	line-height: normal;
 }
 
-.sl-container-row-10[class="sl-vertical-top"] {
+[class=*"sl-vertical-top"] {
 	vertical-align: top;
 }
 
-.sl-container-row-10[class="sl-vertical-center"] {
+[class=*"sl-vertical-middle"] {
 	vertical-align: middle;
 }
 
-.sl-container-row-10[class="sl-vertical-bottom"] {
+[class=*"sl-vertical-bottom"] {
 	vertical-align: bottom;
 }
 
@@ -409,28 +409,28 @@
 	height: 220px;
 }
 
-.sl-container-row-11[class=*"sl-vertical"] {
+[class=*"sl-vertical"] {
 	line-height: 220px;
 }
 
-.sl-container-row-11[class=*"sl-vertical"] > * {
+[class=*"sl-vertical"] > * {
 	display: inline-block;
 	float: none;
 }
 
-.sl-container-row-11[class=*"sl-vertical"] * {
+[class=*"sl-vertical"] * {
 	line-height: normal;
 }
 
-.sl-container-row-11[class="sl-vertical-top"] {
+[class=*"sl-vertical-top"] {
 	vertical-align: top;
 }
 
-.sl-container-row-11[class="sl-vertical-center"] {
+[class=*"sl-vertical-middle"] {
 	vertical-align: middle;
 }
 
-.sl-container-row-11[class="sl-vertical-bottom"] {
+[class=*"sl-vertical-bottom"] {
 	vertical-align: bottom;
 }
 
@@ -446,28 +446,28 @@
 	height: 240px;
 }
 
-.sl-container-row-12[class=*"sl-vertical"] {
+[class=*"sl-vertical"] {
 	line-height: 240px;
 }
 
-.sl-container-row-12[class=*"sl-vertical"] > * {
+[class=*"sl-vertical"] > * {
 	display: inline-block;
 	float: none;
 }
 
-.sl-container-row-12[class=*"sl-vertical"] * {
+[class=*"sl-vertical"] * {
 	line-height: normal;
 }
 
-.sl-container-row-12[class="sl-vertical-top"] {
+[class=*"sl-vertical-top"] {
 	vertical-align: top;
 }
 
-.sl-container-row-12[class="sl-vertical-center"] {
+[class=*"sl-vertical-middle"] {
 	vertical-align: middle;
 }
 
-.sl-container-row-12[class="sl-vertical-bottom"] {
+[class=*"sl-vertical-bottom"] {
 	vertical-align: bottom;
 }
 
