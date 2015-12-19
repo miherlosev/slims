@@ -12,10 +12,10 @@
 	/* utils helpers */
 }
 
-.space-xs { margin-bottom: 5px; }
-.space-sm { margin-bottom: 10px; }
-.space-md { margin-bottom: 20px; }
-.space-lg { margin-bottom: 40px; }
+.sl-space-xs { margin-bottom: 5px; }
+.sl-space-sm { margin-bottom: 10px; }
+.sl-space-md { margin-bottom: 20px; }
+.sl-space-lg { margin-bottom: 40px; }
 
 [class*="sl-col"],
 [class*="sl-row"] {
