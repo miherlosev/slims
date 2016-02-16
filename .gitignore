@@ -1,0 +1,4 @@
+.publish/
+_gh-pages/
+node_modules/
+*.sublime*
